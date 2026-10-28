@@ -1,0 +1,4 @@
+[context]
+root = "."
+include = ["memory/**", "skills/**", "automations/**"]
+exclude = []
